@@ -1,0 +1,2 @@
+web: java -jar target/desafio-santander-dev-week-2023-0.0.1-SNAPSHOT.jar
+
